@@ -378,6 +378,6 @@
             Command="{Binding CalculateCommand}"
             Style="{StaticResource OperatorButtonStyle}"
             Text="=" />
- 
+
     </Grid>
 </ContentPage> 
