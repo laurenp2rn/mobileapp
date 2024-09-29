@@ -13,6 +13,17 @@
     <Color x:Key="SecondaryDarkText">#9880e5</Color>
     <Color x:Key="Tertiary">#2B0B98</Color>
 
+    <Color x:Key="ButtonBackgroundColor">#512BD4</Color>
+    <!-- Button background color -->
+    <Color x:Key="BorderColor">#CCCCCC</Color>
+    <!-- Border color added -->
+    <Color x:Key="FrameBackgroundColor">#F0F0F0</Color>
+    <!-- Frame background color added -->
+
+    <Color x:Key="DarkTextColor">#000000</Color>
+    <!-- Dark text color added -->
+    <Color x:Key="LightTextColor">#FFFFFF</Color>
+    <!-- Light text color added -->
     <Color x:Key="White">White</Color>
     <Color x:Key="Black">Black</Color>
     <Color x:Key="Magenta">#D600AA</Color>

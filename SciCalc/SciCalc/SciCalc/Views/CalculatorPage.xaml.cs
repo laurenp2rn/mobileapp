@@ -11,4 +11,4 @@ public partial class CalculatorPage : ContentPage
 
         this.BindingContext = new CalculatorPageViewModel();
     }
-}
+}TypeInitializationException: The type initializer for '<Module>' threw an exception.

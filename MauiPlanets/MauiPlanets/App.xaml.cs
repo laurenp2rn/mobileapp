@@ -1,12 +1,14 @@
-﻿namespace MauiPlanets
+﻿using MauiPlanets.Views;
+
+namespace MauiPlanets
 {
     public partial class App : Application
     {
         public App()
         {
-            InitializeComponent();
+			InitializeComponent();
 
-            MainPage = new AppShell();
+            MainPage = new StartPage();
         }
     }
 }
