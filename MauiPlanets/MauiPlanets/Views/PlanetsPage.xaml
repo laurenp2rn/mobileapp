@@ -345,7 +345,7 @@
                     <Image
                         WidthRequest="30"
                         HeightRequest="30"
-                        Source="imgefavorite.png"
+                        Source="imgfavorite.png"
                         Grid.Row="0"
                         Grid.Column="1"
                         HorizontalOptions="Center" />
@@ -359,7 +359,7 @@
                     <Image
                         WidthRequest="30"
                         HeightRequest="30"
-                        Source="imgprofile.png"
+                        Source="profile.png"
                         Grid.Row="0"
                         Grid.Column="2"
                         HorizontalOptions="Center" />
