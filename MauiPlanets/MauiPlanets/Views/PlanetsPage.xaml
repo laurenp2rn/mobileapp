@@ -29,41 +29,6 @@
                 HorizontalOptions="End"
                 Spacing="20">
 
-                <Label 
-                    Text="MENU"
-                    Style="{StaticResource PageHeaderStyle}"
-                    HorizontalOptions="End"/>
-
-                <Label
-                    Text="Option 1 (with icon)"
-                    Style="{StaticResource PageHeaderSubtitleStyle}"
-                    HorizontalOptions="End"/>
-
-                <Label
-                    Text="Option 2 (with icon)"
-                    Style="{StaticResource PageHeaderSubtitleStyle}"
-                    HorizontalOptions="End"/>
-
-                <Label
-                    Text="Option 3 (with icon)"
-                    Style="{StaticResource PageHeaderSubtitleStyle}"
-                    HorizontalOptions="End"/>
-
-                <Label
-                    Text="Option 4 (with icon)"
-                    Style="{StaticResource PageHeaderSubtitleStyle}"
-                    HorizontalOptions="End"/>
-
-                <Label
-                    Text="Option 5 (with icon)"
-                    Style="{StaticResource PageHeaderSubtitleStyle}"
-                    HorizontalOptions="End"/>
-
-                <Label
-                    Text="Option 6 (with icon)"
-                    Style="{StaticResource PageHeaderSubtitleStyle}"
-                    HorizontalOptions="End"/>
-
             </VerticalStackLayout>
         </Grid>
 
@@ -135,8 +100,8 @@
                 Grid.Column="0"
                 Grid.ColumnSpan="2"
                 HorizontalScrollBarVisibility="Never"
-                VerticalScrollBarVisibility="Never"
-                Margin="0,32,-24,0">
+                VerticalScrollBarVisibility="Always"
+                Margin="0,32,-24,120">
 
                 <VerticalStackLayout
                     Spacing="12">

@@ -1,10 +1,12 @@
-﻿namespace MauiPlanets
+﻿using Microsoft.Maui.Controls;
+
+namespace MauiPlanets
 {
-    public partial class AppShell : Shell
-    {
-        public AppShell()
-        {
-            InitializeComponent();
-        }
-    }
+	public partial class AppShell : Shell
+	{
+		public AppShell()
+		{
+			InitializeComponent();
+		}
+	}
 }
